@@ -26,7 +26,12 @@ body {
     margin-bottom: 20px;
 }
 
+.section_title {
+    margin-bottom: 30px;
+}
+
 .green_button {
     background-color: lime;
     font-family: "VT323", monospace;
+    padding: 10px;
 }
