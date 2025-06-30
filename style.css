@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=VT323&display=swap');
+
+body {
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+    color: lime;
+    display: flex;
+}
+
+.header {
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.main {
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    padding: 15px;
+}
+
+.green_button {
+    background-color: lime;
+    font-family: "VT323", monospace;
+    padding: 10px;
+}
