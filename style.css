@@ -9,22 +9,24 @@ body {
     display: flex;
 }
 
+.container {
+    padding: 20px;
+}
+
 .header {
-    padding: 15px;
-    margin-bottom: 10px;
 }
 
 .main {
-    padding: 15px;
-    margin-bottom: 10px;
 }
 
 .footer {
-    padding: 15px;
+}
+
+.section {
+    margin-bottom: 20px;
 }
 
 .green_button {
     background-color: lime;
     font-family: "VT323", monospace;
-    padding: 10px;
 }
